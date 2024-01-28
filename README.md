@@ -5,8 +5,8 @@ For this step create a repository. Make sure to push your secrets file into your
 
 ## Did the file get copied? 
 
-#My answer: No it did not get copied.
+My answer: No it did not get copied.
 
 ## Once it's copied did Github complained about it?
 
-#My answer: No it did not complain about it.
+My answer: No it did not complain about it.
